@@ -24,16 +24,16 @@ My worked samples cover UK card issuers, a fund administrator and a bank's inves
 ## Selected projects
 
 - [Clint](https://github.com/brandschema/CLINT): a brand voice linter that checks copy against a machine-readable brand voice. Currently being rebuilt.
-- Claim-audit and source-verify skills for Claude: extract claims and verify them against primary sources, recording a verification date.
+- Claim-audit and source-verify skills for Codex and Claude: extract claims and verify them against primary sources, recording a verification date.
 - Semiotic analysis tool: a lead-generation tool for analysing brand language, built with Next.js, Vercel and Supabase. Sends a PDF report by email.
 - Project-log skill: keeps a per-project ledger of decisions and open issues.
 - Local knowledge base: built in Obsidian, with a competitor register where every entry is tagged confirmed, unconfirmed or wrong.
 
 ## How I build
 
-I built Brand Schema's tools with Claude, without a prior coding background.
+I built Brand Schema's tools with Claude, and Codex without a prior coding background.
 
-I use Next.js (App Router), TypeScript, Tailwind CSS, Supabase, Vercel, Netlify, Claude Code and Obsidian.
+I use Next.js (App Router), TypeScript, Tailwind CSS, Supabase, Vercel, Netlify, Codex, Claude Code and Obsidian.
 
 ## Background
 
@@ -41,4 +41,4 @@ I worked in brand and marketing roles at American Express, DHL and British Gas b
 
 ## Get in touch
 
-Contact me through [brandschema.com](https://brandschema.com).
+Contact me on email: julian.hayes@mac.com
